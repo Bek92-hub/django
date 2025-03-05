@@ -12,6 +12,7 @@ from django.utils.text import get_text_list
 from django.utils.translation import gettext
 from django.utils.translation import gettext_lazy as _
 
+
 ADDITION = 1
 CHANGE = 2
 DELETION = 3
